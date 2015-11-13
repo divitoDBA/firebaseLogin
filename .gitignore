@@ -1,0 +1,5 @@
+# --------------------
+# files not included
+# --------------------
+firebase.json
+node_modules
